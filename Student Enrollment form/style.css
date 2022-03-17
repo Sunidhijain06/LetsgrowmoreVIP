@@ -7,7 +7,7 @@
   
   :root {
     /* color for main nav */
-    --bg-light-green: #bc7de0;
+    --bg-light-green: #800080;
   
     /* color for (description and image (tittled)) nav. */
     --bg-green-yellow: #BDB5D5;
@@ -28,7 +28,7 @@
     text-align: center;
     box-sizing: border-box;
     border-bottom: solid 2px #9F2B68;
-    color: rgb(0, 0, 0);
+    color: rgb(248, 247, 247);
   }
   
   .d-flex {
